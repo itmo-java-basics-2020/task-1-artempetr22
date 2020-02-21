@@ -9,11 +9,4 @@ public class Task1 {
         return 42;
     }
 
-    /**
-     * @return 43
-     */
-    int get43() {
-        return 43;
-    }
-
 }
